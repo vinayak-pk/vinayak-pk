@@ -1,4 +1,10 @@
 ### Hi there 👋
+### About me
+An ambitious, goal-oriented person with experience in effective collaboration and a keen interest in solving problems and
+coming up with effective solutions. With a good understanding of Data Structures and Algorithms, proficiency in React,
+and with a strong hold on MERN stack. Looking forward to starting a challenging journey with a strong focus on building
+great products in a Tech-based company within the role of a Full Stack Web Developer.
+
 
 <!--
 **vinayak-pk/vinayak-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
